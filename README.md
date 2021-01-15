@@ -8,4 +8,4 @@
 </div>
 
 ### [Requirements](/requirements.txt)
-### [Documentation](https://github.com/dominictarro/wander.wiki.git)
+### [Documentation](https://github.com/dominictarro/wander/wiki)
